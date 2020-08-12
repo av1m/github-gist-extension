@@ -1,0 +1,11 @@
+{
+    "refresh": {
+        "message": "Actualiser"
+    },
+    "credentials_registered": {
+        "message" : "Les identifiants (login, token) ont été enregistrés"
+    },
+    "option": {
+        "message": "Options"
+    }
+}

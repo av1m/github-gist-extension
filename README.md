@@ -22,7 +22,7 @@ Then, go to :
 
 ## Repository available on Github :octocat:
 
-* Link of this repository
+* [Link of this repository](https://github.com/av1m/gist-chrome-extension)
 
 ## License 📝
 

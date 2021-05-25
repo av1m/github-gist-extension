@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Gists",
+  "name": "Github & Gist",
   "version": "1.0",
   "default_locale": "en",
-  "description": "Show gists",
+  "description": "Show repositories and gists",
   "browser_action": {
-    "default_title": "Gists",
+    "default_title": "Gists & Repos",
     "default_icon": "assets/icon.png",
     "default_popup": "popup.html"
   },

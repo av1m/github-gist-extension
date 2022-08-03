@@ -12,7 +12,7 @@ Possibility of adding a [token](https://docs.github.com/en/github/authenticating
 First, clone this project :
 
 ```bash
-git clone https://github.com/av1m/github-extension
+git clone https://github.com/av1m/github-gist-extension
 ```
 
 Then, go to :  
